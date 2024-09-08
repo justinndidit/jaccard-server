@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: JaccardAlgorithm
+
+server: 
+  port : 8001
