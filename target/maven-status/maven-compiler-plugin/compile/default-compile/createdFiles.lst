@@ -1,0 +1,13 @@
+com/surgee/JaccardAlgorithm/dto/response/HttpResponseData$HttpResponseDataBuilder.class
+com/surgee/JaccardAlgorithm/JaccardAlgorithmApplication.class
+com/surgee/JaccardAlgorithm/dto/data/JaccardCalculatorData.class
+com/surgee/JaccardAlgorithm/dto/request/HttpRequestObject.class
+com/surgee/JaccardAlgorithm/config/WebClientConfig.class
+com/surgee/JaccardAlgorithm/dto/data/JaccardCalculatorData$JaccardCalculatorDataBuilder.class
+com/surgee/JaccardAlgorithm/dto/data/ResponseData.class
+com/surgee/JaccardAlgorithm/config/CustomThreadPoolTaskExecutor.class
+com/surgee/JaccardAlgorithm/services/JaccardAlgorithmService.class
+com/surgee/JaccardAlgorithm/dto/data/ResponseData$ResponseDataBuilder.class
+com/surgee/JaccardAlgorithm/dto/response/HttpResponseData.class
+com/surgee/JaccardAlgorithm/controller/JaccardAlgorithmController.class
+com/surgee/JaccardAlgorithm/util/JaccardAlgorithmCalculator.class

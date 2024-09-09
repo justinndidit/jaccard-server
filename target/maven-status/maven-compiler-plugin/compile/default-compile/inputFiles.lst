@@ -5,5 +5,6 @@
 /home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/dto/data/JaccardCalculatorData.java
 /home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/dto/data/ResponseData.java
 /home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/dto/request/HttpRequestObject.java
+/home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/dto/response/HttpResponseData.java
 /home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/services/JaccardAlgorithmService.java
 /home/justinndidit/Desktop/projects/Java/spring-boot/JaccardAlgorithm/src/main/java/com/surgee/JaccardAlgorithm/util/JaccardAlgorithmCalculator.java
