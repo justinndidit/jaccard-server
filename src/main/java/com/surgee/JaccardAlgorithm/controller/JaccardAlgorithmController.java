@@ -17,11 +17,7 @@ public class JaccardAlgorithmController {
 
     @PostMapping("/api/v1/jaccard-algorithm")
     public void runJaccardAlgorithm(@RequestBody HttpRequestObject items ) {
-        System.out.println();
-        System.out.println();
-        System.out.println(items);
-        System.out.println();
-        System.out.println();
+     
         service.display(items.getDataDB(), items.getSearchItem(), items.getType());
         
     }

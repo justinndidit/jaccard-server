@@ -54,7 +54,7 @@ public class JaccardAlgorithmService {
         try {
             jaccardAlgorithmHandler(dataDB, searchItem, responseData);
 
-            double minJaccardValue = 0.6;
+            double minJaccardValue = 0.8;
 
             List<ResponseData> filteredResponseData = responseData.stream().filter((item) -> item.getJaccardNumber() >= minJaccardValue).collect(Collectors.toList());
 
@@ -63,10 +63,6 @@ public class JaccardAlgorithmService {
                                                                                                                 .searchItem(searchItem)
                                                                                                                 .type(type)
                                                                                                                 .build();
-                                                                                                                System.out.println(response);
-                                                                                                                System.out.println();
-                                                                                                                System.out.println();
-                                                                                                                System.out.println();
 
             webClient.post().uri("api/v1/webhook/jaccard-algorithm")
                                             .body(Mono.just(response), ResponseData.class)
