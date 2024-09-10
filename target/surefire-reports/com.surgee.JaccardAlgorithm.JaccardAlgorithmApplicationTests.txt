@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.surgee.JaccardAlgorithm.JaccardAlgorithmApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.904 s -- in com.surgee.JaccardAlgorithm.JaccardAlgorithmApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.346 s -- in com.surgee.JaccardAlgorithm.JaccardAlgorithmApplicationTests
