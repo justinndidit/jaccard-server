@@ -16,7 +16,7 @@ public class WebClientConfig {
     @Bean
     public WebClient webClient() {
         return  WebClient.builder()
-                                            .baseUrl("https://swep-200-project.onrender.com")
+                                            .baseUrl("https://lostfoundhub.onrender.com")
                                             .defaultHeader(HttpHeaders.CONTENT_TYPE,MediaType.APPLICATION_JSON_VALUE)
                                             .build();
         }
